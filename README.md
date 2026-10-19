@@ -2,4 +2,5 @@
 
 <p align="center">
   CS + Stats @ Harvard · I build human-centered AI.
+  cristianamurgoci.com
 </p>
